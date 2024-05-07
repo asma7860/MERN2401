@@ -27,6 +27,12 @@ h1{
   border-radius: 20px;
   font-family: cursive;
 }
+h2{
+  color:white;
+}
+.RCB{
+  color: gold;
+}
 .main{
   background-color: palevioletred;
   color: whit;
