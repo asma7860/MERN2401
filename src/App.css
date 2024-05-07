@@ -5,15 +5,19 @@ body{
   background-image: url("https://static.vecteezy.com/system/resources/thumbnails/010/599/681/small/abstract-smooth-curve-line-on-blue-gradient-lighting-color-background-vector.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+
 }
 img{
   width:200px;
   height: 200px;
+ 
 }
 .players{
   border: 2px solid bisque;
   display: inline-block;
   margin: 2%;
+  width: 250px;
+  
 }
 h1{
   background-color: brown;
@@ -22,4 +26,41 @@ h1{
   padding: 10px;
   border-radius: 20px;
   font-family: cursive;
+}
+.main{
+  background-color: palevioletred;
+  color: whit;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 20px;
+}
+p{
+  color: paleturquoise;
+}
+.pics{
+  width: 30px;
+  height: 30px;
+}
+.box{
+  display: flex;
+  justify-content: space-between;
+}
+
+.head{
+  color:yellow;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 35px;
+}
+
+.txt{
+  color: limegreen;
+}
+.p1{
+  color: lightseagreen;
+  font-size: 20px;
+}
+
+.img{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToCvG5B9MVjxzBk_zNn_o0Xx0t9Hltc01g62BkxaZ1H3TBJnVjPcJK4unyNTThoxCZT-g&usqp=CAU);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
