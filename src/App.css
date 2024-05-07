@@ -14,6 +14,7 @@ img{
   border: 2px solid bisque;
   display: inline-block;
   margin: 2%;
+  width: 250px;
 }
 h1{
   background-color: brown;
@@ -22,4 +23,21 @@ h1{
   padding: 10px;
   border-radius: 20px;
   font-family: cursive;
+}
+.main{
+  background-color: palevioletred;
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 20px;
+}
+p{
+  color: paleturquoise;
+}
+.pics{
+  width: 30px;
+  height: 30px;
+}
+.box{
+  display: flex;
+  justify-content: space-between;
 }
