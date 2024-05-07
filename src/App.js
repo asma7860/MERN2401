@@ -57,7 +57,7 @@ function App() {
     </div>
     <hr/>
     <div className='body'> 
-    <h1 className='main'>Sunrises Hyderabad</h1>
+    <h1 className='main'>Sunrisers Hyderabad</h1>
 
     <img style={{width:"150px", height:"150px", position:"relative", top:"60px", right:"10px"}} src="https://i.pinimg.com/originals/b2/2b/5d/b22b5ddf29c04f62295e20e378a51d78.png"></img>
     <br/>
