@@ -55,7 +55,8 @@ function App() {
       <h2>Manoj Bhandage</h2>
       <h2>AllRounder 🏏</h2>
     </div>
-    <hr/>  
+    <hr/>
+    <div className='body'> 
     <h1 className='main'>Sunrises Hyderabad</h1>
 
     <img style={{width:"150px", height:"150px", position:"relative", top:"60px", right:"10px"}} src="https://i.pinimg.com/originals/b2/2b/5d/b22b5ddf29c04f62295e20e378a51d78.png"></img>
@@ -109,6 +110,7 @@ function App() {
       <h2> 🏏Shahbaz Ahamad</h2>
       <p><b>Bowler</b></p>
     </div>
+    </div> 
     <div className='img'>
     <hr></hr>
     <br></br>

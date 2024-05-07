@@ -28,22 +28,21 @@ h1{
   font-family: cursive;
 }
 .main{
-  background-color: palevioletred;
-  color: whit;
+  background-color: rgb(237, 198, 165);
+  color: green;
   font-family: Georgia, 'Times New Roman', Times, serif;
   padding: 20px;
+  font-style: italic;
 }
 p{
-  color: paleturquoise;
+  color: purple;
 }
-.pics{
-  width: 30px;
-  height: 30px;
+.body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwBkAKFwEf-5bTrnvnvEAerCNxClJfpC_8IWgiKQd4OkumzH2L0vuPmQya_k9oZRxrYI&usqp=CAU);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-.box{
-  display: flex;
-  justify-content: space-between;
-}
+
 
 .head{
   color:yellow;
