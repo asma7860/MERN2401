@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -198,6 +198,65 @@ Matches</p>
 Matches</p>
     </div>
     </div>
+  <div className='MIPage'>
+    <img className='MILogo' src='https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/MI/Logos/Logooutline/MIoutline.png'></img>
+    <h1 className='heading1'>Mumbai Indians</h1>
+    <br></br>
+    <div className='MIPlayers'>
+   <img src='https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png'></img>
+   <hr></hr>
+   <h2 className='heading2'> Rohit Sharma</h2>
+   <p><b>🏏Batter</b></p>
+    </div>
+    <div className='MIPlayers'>
+   <img src='https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png'></img>
+   <hr></hr>
+   <h2 className='heading2'> Dewald Brevis</h2>
+   <p><b>🏏Batter</b></p>
+    </div>
+    <div className='MIPlayers'>
+   <img src='https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/174.png'></img>
+   <hr></hr>
+   <h2 className='heading2'> Suryakumar Yadav</h2>
+   <p><b>🏏Batter</b></p>
+    </div>
+    <div className='MIPlayers'>
+   <img src='https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/164.png'></img>
+   <hr></hr>
+   <h2 className='heading2'> Ishan Kishan</h2>
+   <p><b>Wicketkeeper Batter</b></p>
+    </div>
+    <div className='MIPlayers'>
+   <img src='https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3154.png'></img>
+   <hr></hr>
+   <h2 className='heading2'>Harvik Desai</h2>
+   <p><b>Wicketkeeper Batter</b></p>
+    </div>
+    <div className='MIPlayers'>
+   <img src='https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/993.png'></img>
+   <hr></hr>
+   <h2 className='heading2'>N. Tilak Varma</h2>
+   <p><b>🏏Batter</b></p>
+    </div>
+    <div className='MIPlayers'>
+   <img src='https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png'></img>
+   <hr></hr>
+   <h2 className='heading2'>Tim David</h2>
+   <p><b>🏏Batter</b></p>
+    </div>
+    <div className='MIPlayers'>
+   <img src='https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/581.png'></img>
+   <hr></hr>
+   <h2 className='heading2'> Vishnu Vinod</h2>
+   <p><b>Wicketkeeper Batter</b></p>
+    </div>
+
+  </div>
+
+
+
+
+
     </div>
    
 

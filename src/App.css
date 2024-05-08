@@ -71,3 +71,29 @@ p{
   background-repeat: no-repeat;
  
 }
+.MIPage{
+  background-color: orange;
+
+}
+.MILogo{
+  width: 150px;
+  position: relative;
+  top:50px;
+  right: 50px;
+  
+}
+.heading1{
+  background-color: blue;
+  color: white;
+
+}
+.heading2{
+  color: black;
+}
+.MIPlayers{
+  display: inline-block;
+  border: 2px solid gray;
+  margin: 20px;
+  width: 250px;
+  
+}
