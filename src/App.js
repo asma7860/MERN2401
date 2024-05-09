@@ -252,7 +252,90 @@ Matches</p>
     </div>
 
   </div>
+  <hr/>
+  <br/>
+ 
+  <div className='RR'> 
+    <h1 className='heading'>RAJASTHAN ROYALS</h1>
 
+    <img style={{width:"150px", height:"150px", position:"relative", top:"60px", right:"0px"}} src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RR/Logos/Logooutline/RRoutline.png"></img>
+    <br/>
+
+    <h4>BATTERS</h4>
+    <div className='batters'>
+   <img  src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/190.png"></img>
+      <hr/>
+      <h2> 🏏SANJU SAMSON</h2>
+      <p><b>Wicketkeeper Batter</b></p>
+    </div>
+    <div className='batters'>
+   <img  src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/182.png"></img>
+      <hr/>
+      <h2> 🏏JOS BUTTLER</h2>
+      <p><b>Wicketkeeper Batter</b></p>
+    </div>
+    <div className='batters'>
+   <img  src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/533.png"></img>
+      <hr/>
+      <h2> 🏏YASHASVI JAISWAL</h2>
+      <p><b>Wicketkeeper,Batter</b></p>
+    </div>
+    <div className='batters'>
+   <img  src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/189.png"></img>
+      <hr/>
+      <h2> 🏏RIYAN PARAG</h2>
+      <p><b>Batter</b></p>
+    </div>
+    <div className='batters'>
+   <img  src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3112.png"></img>
+      <hr/>
+      <h2>🏏SHUBHAM DUBEY</h2>
+      <p><b>AllRounder</b></p>
+    </div>
+    <br/>
+    <h4>ALLROUNDERS</h4>
+    <div className='allrounders'>
+   <img  src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/45.png"></img>
+      <hr/>
+      <h2>RAVICHANDRAN ASHWIN</h2>
+      <p><b>Bowling AllRounder</b></p>
+    </div>
+    <div className='allrounders'>
+   <img  src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3118.png"></img>
+      <hr/>
+      <h2> TANUSH KOTIAN</h2>
+      <p><b>AllRounder</b></p>
+    </div>
+    <div className='allrounders'>
+      
+   <img  src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1591.png"></img>
+      <hr/>
+      <h2>ABID MUSHTAQ</h2>
+      <p><b>AllRounder</b></p>
+    </div>
+    <h4>BOWLERS</h4>
+    <div className='bowlers'>
+      
+   <img  src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/109.png"></img>
+      <hr/>
+      <h2>AVESH KHAN</h2>
+      <p><b>Bowler</b></p>
+    </div>
+    <div className='bowlers'>
+      
+      <img  src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/10.png"></img>
+         <hr/>
+         <h2>YUZVENDRA CHAHAL</h2>
+         <p><b>Bowler</b></p>
+       </div>
+       <div className='bowlers'>
+      
+      <img  src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/66.png"></img>
+         <hr/>
+         <h2>TRENT BOULT</h2>
+         <p><b>Bowler</b></p>
+       </div>
+    </div> 
 
 
 

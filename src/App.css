@@ -45,7 +45,7 @@ p{
   font-size: 25px;
 }
 .body{
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwBkAKFwEf-5bTrnvnvEAerCNxClJfpC_8IWgiKQd4OkumzH2L0vuPmQya_k9oZRxrYI&usqp=CAU);
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwBkAKFwEf-5bTrnvnvEAerCNxClJfpC_8IWgiKQd4OkumzH2L0vuPmQya_k9oZRxrYI&usqp=CAU");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -96,4 +96,54 @@ p{
   margin: 20px;
   width: 250px;
   
+}
+.heading{
+  color: crimson;
+ background-color: lightcoral;
+ font-size: 2.8rem;
+ text-decoration: underline;
+ font-family: monospace;
+}
+.batters{
+  border: 2px solid lightsalmon;
+  display: inline-block;
+  margin: 2%;
+  width: 300px;
+  
+}
+.batters:hover{
+  box-shadow: 5px 5px 5px lightblue;
+}
+.allrounders{
+  border: 2px solid lightsalmon;
+  display: inline-block;
+  margin: 2%;
+  width: 380px;
+  
+}
+.allrounders:hover{
+  box-shadow: 5px 5px 5px lightblue;
+}
+.bowlers{
+  border: 2px solid lightsalmon;
+  display: inline-block;
+  margin: 2%;
+  width: 380px;
+  
+}
+.bowlers:hover{
+  box-shadow: 5px 5px 5px lightblue;
+}
+h4{
+  color: lightseagreen;
+  border-radius: 5px;
+  font-size: 2.5rem;
+
+ 
+}
+h4:hover{
+  box-shadow: 3px 5px 4px lightslategray;
+}
+.RR{
+  background-color: rgb(184, 96, 109);
 }
